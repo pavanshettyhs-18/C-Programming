@@ -9,7 +9,7 @@
 [![Author](https://img.shields.io/badge/Author-Pavan%20Shetty%20H%20S-blueviolet?style=for-the-badge)](https://github.com/pavanshettyhs)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)](CONTRIBUTING.md)
 
-**Created and maintained by [Pavan Shetty H S](https://github.com/pavanshettyhs)**
+**Created and maintained by [Pavan Shetty H S](https://github.com/pavanshettyhs-18)**
 
 *A hands-on, beginner-friendly, placement-ready C programming resource — built the way I wished someone had explained it to me.*
 
@@ -21,7 +21,7 @@
 
 ## 🙋 Why I Built This
 
-Hello! I'm **Pavan Shetty H S**, a CS student who spent months learning C for academics and placement preparation. The biggest problem I faced was that most resources either moved too fast, skipped memory concepts entirely, or gave textbook answers that didn't actually help in interviews.
+Hello! I'm **Pavan Shetty H S**, a ECE student who spent months learning C for academics and placement preparation. The biggest problem I faced was that most resources either moved too fast, skipped memory concepts entirely, or gave textbook answers that didn't actually help in interviews.
 
 So I decided to document everything I learned — in my own words, with my own examples, with the mistakes I personally made highlighted so you can avoid them. This repository is the resource I wish existed when I started.
 
@@ -367,11 +367,11 @@ You are free to use, copy, and share it for personal learning or education. See 
 
 ## 👤 Author — Pavan Shetty H S
 
-*Computer Science Student | C Enthusiast | Placement Aspirant*
+*Electronics and Communication Engineering Student | Embedded Systems *
 
 I built this repository as part of my own learning journey. Everything here is written in my own words, tested by me, and shared freely for any student who finds it useful.
 
-[![GitHub](https://img.shields.io/badge/GitHub-pavanshettyhs-black?style=flat-square&logo=github)](https://github.com/pavanshettyhs)
+[![GitHub](https://img.shields.io/badge/GitHub-pavanshettyhs-black?style=flat-square&logo=github)](https://github.com/pavanshettyhs-18)
 
 ---
 
